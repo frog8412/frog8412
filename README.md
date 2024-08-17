@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 - 👋 Hi, I’m frog8412.
 - 👀 I’m interested in sm64ex-coop.
 - 🌱 I’m currently learning Lua for sm64ex-coop (kinda)
