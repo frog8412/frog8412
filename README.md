@@ -1,8 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frog8412&show_icons=true)
 
-- Hi, I’m frog8412.
-- I’m interested in sm64ex-coop.
-- How to reach me: Discord: frog8412
+- Hi, I’m frog8412
+- I like [sm64coopdx](https://github.com/coop-deluxe/sm64coopdx)
+- Reach me on Discord frog8412
 - Pronouns: he/him or frog
 
 <!---
